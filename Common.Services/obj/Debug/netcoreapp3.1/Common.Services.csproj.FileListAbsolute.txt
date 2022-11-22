@@ -1,0 +1,13 @@
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\bin\Debug\netcoreapp3.1\Common.Services.deps.json
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\bin\Debug\netcoreapp3.1\Common.Services.dll
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\bin\Debug\netcoreapp3.1\Common.Services.pdb
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\bin\Debug\netcoreapp3.1\Common.Repositories.dll
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\bin\Debug\netcoreapp3.1\Common.Repositories.pdb
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.csproj.AssemblyReference.cache
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.AssemblyInfoInputs.cache
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.AssemblyInfo.cs
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.csproj.CoreCompileInputs.cache
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.csproj.CopyComplete
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.dll
+C:\Users\Minja\source\repos\TrefBlock\Common.Services\obj\Debug\netcoreapp3.1\Common.Services.pdb

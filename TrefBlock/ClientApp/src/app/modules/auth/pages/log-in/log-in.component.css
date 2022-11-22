@@ -1,0 +1,16 @@
+.hedwell-img{
+    width: 300px;
+}
+.lg-form-wrapper {
+  background-color: white;
+  width: 550px;
+  padding: 50px 30px;
+  border-radius: 8px;
+/*  box-shadow: 2px 2px 12px 1px #bfbfbf;
+  -webkit-box-shadow: 2px 2px 12px 1px #bfbfbf;
+*/  text-align: center;
+}
+.lg-mat-input {
+  width: 60%;
+  margin-bottom: 15px;
+}

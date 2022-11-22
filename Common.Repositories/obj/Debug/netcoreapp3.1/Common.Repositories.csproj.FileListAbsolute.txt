@@ -1,0 +1,10 @@
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\bin\Debug\netcoreapp3.1\Common.Repositories.deps.json
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\bin\Debug\netcoreapp3.1\Common.Repositories.dll
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\bin\Debug\netcoreapp3.1\Common.Repositories.pdb
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.csproj.AssemblyReference.cache
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.AssemblyInfoInputs.cache
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.AssemblyInfo.cs
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.dll
+C:\Users\Minja\source\repos\TrefBlock\Common.Repositories\obj\Debug\netcoreapp3.1\Common.Repositories.pdb

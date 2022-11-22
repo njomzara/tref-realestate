@@ -1,0 +1,16 @@
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\Common.Repositories.dll
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\Common.Repositories.pdb
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.AssemblyReference.cache
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CopyComplete
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\DataModel.runtimeconfig.json
+C:\Users\Minja\source\repos\TrefBlock\DataModel\bin\Debug\netcoreapp3.1\DataModel.runtimeconfig.dev.json
+C:\Users\Minja\source\repos\TrefBlock\DataModel\obj\Debug\netcoreapp3.1\DataModel.genruntimeconfig.cache

@@ -1,0 +1,49 @@
+<div class="row" style="height: 100%">
+  <div class="col-12 fill-center-items" style="display: flex">
+
+    <!-- TABLE DRIVEN FORM (TDF)-->
+    <!--
+      ngForm             - declare in form tag to attach Angular to this form
+      ngSumbit           - submit form action
+      ngModel            - declare in input tag to attach Angular form field fucntionality
+      #varName           - Template variable name, #varName.property to access element properties
+                           like: touched, untouched, valid, invlaid, dirty, pristine
+      [class.class_name] - bind class to element if condition is met
+      [(ngModel)]        - binds to a model property, model.Property
+    -->
+    <div class=" lg-form-wrapper m-auto" @card *ngIf="!logging">
+      <img src="/assets/single_user.png" class="hedwell-img img-fluid py-5" alt="Responsive image">
+      <form #loginForm="ngForm" (keyup.enter)="onLogIn()" (submit)="onLogIn()" novalidate>
+
+        <mat-form-field class="lg-mat-input">
+          <mat-label>User Id</mat-label>
+          <input matInput required #username="ngModel" type="text" [(ngModel)]="user.userName" name="username">
+          <button mat-button *ngIf="user.userName" type="button" matSuffix mat-icon-button aria-label="Clear" (click)="user.userName=''">
+            <mat-icon>close</mat-icon>
+          </button>
+          <mat-error *ngIf="username.invalid && username.touched">
+            Please enter your User ID!
+          </mat-error>
+        </mat-form-field>
+
+        <mat-form-field class="lg-mat-input">
+          <mat-label>Password</mat-label>
+          <input matInput required #password="ngModel" type="password" [(ngModel)]="user.password" name="password">
+          <button mat-button *ngIf="user.password" type="button" matSuffix mat-icon-button aria-label="Clear" (click)="user.password=''">
+            <mat-icon>close</mat-icon>
+          </button>
+          <mat-error *ngIf="password.invalid && password.touched">
+            Password is mandatory!
+          </mat-error>
+        </mat-form-field>
+
+        <div class="text-center py-5">
+          <button mat-raised-button color="primary" type="submit" [disabled]="loginForm.form.invalid">Sign In</button>
+        </div>
+
+      </form>
+    </div>
+
+  </div>
+</div>
+
